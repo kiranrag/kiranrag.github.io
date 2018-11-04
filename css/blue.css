@@ -121,7 +121,7 @@ a:hover {
 .paper-top {
 	width:828px;
 	margin:0 auto;
-	background-image:url(../images/ptop.jpg);
+	/*background-image:url(../images/ptop.jpg);*/
 	background-repeat:no-repeat;
 	height:126px;
 }
@@ -142,7 +142,7 @@ a:hover {
 	width:828px;
 	height:18px;
 	margin:0 auto;
-	background-image:url(../images/pbottom.jpg);
+	/*background-image:url(../images/pbottom.jpg);*/
 	background-repeat:no-repeat;
 }
 
